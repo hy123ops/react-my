@@ -1,0 +1,7 @@
+{
+    "/api/movieList":"/movieList",
+    "/api/cinemaList":"/cinemaList",
+    "/api/comingList":"/comingList",
+    "/api/mostExpect":"/mostExpect"
+
+}
